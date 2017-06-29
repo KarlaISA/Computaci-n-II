@@ -1,8 +1,9 @@
 #Clases y Objetos
 #Escribir la clase Point con los métodos descritos en HackerRank.
 #Karla Ivonne Serrano Arevalo
+
 from math import sqrt
-from math import sqrt
+
 class Point():
 	
 	def __init__(self,x,y):
